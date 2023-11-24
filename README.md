@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Naufal Waskito Aji</h1>
+<h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed rhoncus eros, et lacinia orci. Nunc id condimentum ex. Proin massa tortor, ornare in accumsan sed, pretium eu enim.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/11705athena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="11705athena" height="30" width="40" /></a>
