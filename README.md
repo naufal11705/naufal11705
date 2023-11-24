@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/11705athena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="11705athena" height="30" width="40" /></a> <a href="hoyolab.com/accountCenter/postList?id=39554254" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/3/33/HoYoLAB_icon_new.png/revision/latest/scale-to-width-down/250?cb=20220530005712" alt="athenaasamiya" height="30" width="40" /></a>
+<a href="https://instagram.com/11705athena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="11705athena" height="30" width="40" /></a> <a href="https://hoyolab.com/accountCenter/postList?id=39554254" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/3/33/HoYoLAB_icon_new.png/revision/latest/scale-to-width-down/250?cb=20220530005712" alt="athenaasamiya" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
