@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/neuv-neuvillette-neuvilette-neuvillette-genshin-genshin-neuvillette-gif-17983122982536272985" />
+![Neuv Neuvillette GIF]([https://media.tenor.com/-ZDjEu483FkAAAAd/neuv-neuvillette.gif)
 <h1 align="center">Hi 👋, I'm Ahmad Naufal Waskito Aji</h1>
 <h3 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed rhoncus eros, et lacinia orci. Nunc id condimentum ex. Proin massa tortor, ornare in accumsan sed, pretium eu enim.</h3>
 
